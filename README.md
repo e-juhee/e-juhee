@@ -25,8 +25,4 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juhee971204)](https://solved.ac/juhee971204/)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-juhee&layout=compact"><br><br>
-
 </div>
